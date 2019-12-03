@@ -1,4 +1,5 @@
-# Desktop Flutter Example
+# Desktop Flutter Application
+# Calculator
 
 This is the standard Flutter template application, modified to run on desktop.
 
